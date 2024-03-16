@@ -1,0 +1,11 @@
+- USER: luca_yao
+  WIFI: a4:cc:ee:aa:00:01  #Wifi MAC
+  WIRED: a4:cc:ee:aa:00:01 #有線 MAC
+  START_TIME: 01-01        #開始時間
+  END_TIME: 06-30          #結束時間
+
+- USER: Joanna_wang
+  WIFI: aa:bb:33:d3:qq:01
+  WIRED: da:a9:11:23:22:ea
+  START_TIME: 02-02
+  END_TIME: 02-12
